@@ -30,3 +30,6 @@ Install via Spicetify Marketplace.
 ## Requirements
 - Spotify Desktop
 - Spicetify
+
+## Support
+Discord: irammmcr
