@@ -1,11 +1,12 @@
 {
   "name": "DJ Mode+",
-  "description": "DJ-like smart play for Spotify Desktop. Supports albums, EPs, playlists, repeat and quick navigation using suffixes.",
-  "preview": "https://raw.githubusercontent.com/irammmcr/dj-mode-plus/main/preview.png",
+  "description": "DJ-like smart play for Spotify Desktop. Supports artists, tracks, albums, EPs, mixes, memory mode and keyboard shortcuts.",
+  "preview": "preview.png",
   "main": "dj-mode-plus.js",
   "readme": "README.md",
   "authors": [
     { "name": "IRAM" }
   ],
-  "tags": ["dj", "playback", "queue", "productivity"]
+  "tags": ["dj", "playback", "queue", "productivity"],
+  "version": "1.1.0"
 }
